@@ -63,4 +63,12 @@
 4) MALWARE DETAILS .
 ![Screenshot 2025-04-14 213151](https://github.com/user-attachments/assets/cdb46b7b-9c69-45fb-bfd7-46c8d6dc70b9)
 
+📄 License
 
+This project is licensed under the MIT License. 🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. 📧 callmerachit145@gmail.com
+
+Created by @mysteriork -- RACHIT KUMAR
+
+For inquiries, open an issue or drop a message via GitHub.
