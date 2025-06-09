@@ -1,4 +1,4 @@
-# 🛡️ D-LoGGer – Keylogger & Rootkit Detection System
+# 🛡️ D-LoGGer – Keylogger & spyware Detection System
 
 **D-LoGGer** is a Python-based desktop application that simulates and detects stealth Keyloggers and Spywares . Designed with a user-friendly GUI using PySide6, this project aims to bridge the gap between technical malware behavior and practical end-user protection.
 
